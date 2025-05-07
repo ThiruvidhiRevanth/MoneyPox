@@ -20,10 +20,8 @@ The goal is to leverage data visualization to turn complex datasets into **actio
 Explore the live dashboard below:
 
 
-  <object data="https://app.powerbi.com/view?r=eyJrIjoiZDNkNWNkNDktNDczOS00ZDI4LThkYjgtMjhjN2I0OTlkYzUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" width="50%" height="520">
-         
-  Error.
-      </object>
+[Click here to view the Monkeypox Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDNkNWNkNDktNDczOS00ZDI4LThkYjgtMjhjN2I0OTlkYzUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 
 
 
